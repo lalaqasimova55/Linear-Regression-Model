@@ -41,13 +41,13 @@ The model was evaluated using the following metrics:
 
 ## Key Insights
 
-The model performs consistently on both training and test sets, indicating no significant overfitting.
+- The model performs consistently on both training and test sets, indicating no significant overfitting.
 
-R² values show that the model explains a reasonable portion of variance in the target variable.
+- R² values show that the model explains a reasonable portion of variance in the target variable.
 
-Error metrics (MAE, RMSE, MAPE) indicate that some prediction deviation still exists, suggesting room for improvement in feature engineering or model tuning.
+- Error metrics (MAE, RMSE, MAPE) indicate that some prediction deviation still exists, suggesting room for improvement in feature engineering or model tuning.
 
-Overall, the model captures general patterns effectively but could benefit from further optimization.
+- Overall, the model captures general patterns effectively but could benefit from further optimization.
 
 # Conclusion
 
