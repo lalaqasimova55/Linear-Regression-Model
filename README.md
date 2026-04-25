@@ -18,7 +18,7 @@ Matplotlib – data visualization
 Seaborn – statistical plots
 
 ## Methodology
-- Data Preprocessing
+- * Data Preprocessing *
 
 Categorical variables were converted using One-Hot Encoding
 
