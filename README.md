@@ -18,7 +18,7 @@ Matplotlib – data visualization
 Seaborn – statistical plots
 
 ## Methodology
-* Data Preprocessing 
+### Data Preprocessing 
 
 Categorical variables were converted using One-Hot Encoding
 
@@ -26,11 +26,11 @@ Numerical features were standardized to improve model convergence
 
 Dataset was split into train and test sets
 
-* Model Building
+### Model Building
 
 A Multiple Linear Regression model was applied to learn relationships between independent variables and the target variable.
 
-* Model Evaluation
+### Model Evaluation
 
 The model was evaluated using the following metrics:
 
@@ -38,7 +38,7 @@ The model was evaluated using the following metrics:
 - MAE (Mean Absolute Error) – average prediction error
 - RMSE (Root Mean Squared Error) – penalizes large errors
 - MAPE (Mean Absolute Percentage Error) – relative prediction error
-- 
+
 ## Key Insights
 
 The model performs consistently on both training and test sets, indicating no significant overfitting.
